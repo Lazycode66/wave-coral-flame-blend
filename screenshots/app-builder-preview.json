@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 811,
+      "bodyTextHash": "cf25935b347bf79504a7212abe1597968504587f25c49e3086e1a7200b12e34f",
+      "bodyTextPrefix": "Lantern Lantern home Check Learn AWARENESS DESK Check it before ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 811,
+      "bodyTextHash": "cf25935b347bf79504a7212abe1597968504587f25c49e3086e1a7200b12e34f",
+      "bodyTextPrefix": "Lantern Lantern home Check Learn AWARENESS DESK Check it before ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
